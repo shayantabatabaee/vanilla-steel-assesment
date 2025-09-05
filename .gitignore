@@ -2,3 +2,4 @@
 .env
 venv
 resources
+.ipynb_checkpoints

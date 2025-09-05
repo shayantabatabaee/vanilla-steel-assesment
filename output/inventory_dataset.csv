@@ -1,0 +1,86 @@
+Grade,Description,Weight (kg),Quantity,Supplier,Article ID
+C100S,Kantenfehler - FS-Kantenrisse,14155.0,10.84,Supplier 1,3
+C100S,Längs- oder Querisse,11381.0,22.87,Supplier 1,4
+C300S,Sollmasse (Gewicht) unterschritten,10072.0,22.87,Supplier 1,5
+C100S,Sollmasse (Gewicht) unterschritten,8936.0,10.84,Supplier 1,7
+C300S,Sollmasse (Gewicht) unterschritten,9810.0,22.87,Supplier 1,8
+C200S,Längs- oder Querisse,5491.0,22.87,Supplier 1,9
+C100S,Längs- oder Querisse,12787.0,25.46,Supplier 1,13
+C200S,Sollmasse (Gewicht) unterschritten,8391.0,22.87,Supplier 1,14
+C100S,Längs- oder Querisse,10409.0,10.84,Supplier 1,15
+C300S,Kantenfehler - FS-Kantenrisse,8240.0,22.87,Supplier 1,17
+C300S,Längs- oder Querisse,14139.0,22.87,Supplier 1,18
+C100S,Längs- oder Querisse,7304.0,10.84,Supplier 1,19
+C100S,Kantenfehler - FS-Kantenrisse,13518.0,22.87,Supplier 1,20
+C100S,Längs- oder Querisse,12010.0,10.84,Supplier 1,21
+C200S,Längs- oder Querisse,10959.0,22.87,Supplier 1,24
+C300S,Längs- oder Querisse,5979.0,25.46,Supplier 1,26
+C100S,Kantenfehler - FS-Kantenrisse,10499.0,10.84,Supplier 1,27
+C300S,Sollmasse (Gewicht) unterschritten,10723.0,25.46,Supplier 1,28
+C100S,Längs- oder Querisse,10262.0,10.84,Supplier 1,29
+C100S,Sollmasse (Gewicht) unterschritten,5011.0,10.84,Supplier 1,31
+C100S,Sollmasse (Gewicht) unterschritten,8410.0,25.46,Supplier 1,32
+C300S,Längs- oder Querisse,5124.0,25.46,Supplier 1,33
+C100S,Sollmasse (Gewicht) unterschritten,12071.0,25.46,Supplier 1,34
+C100S,Kantenfehler - FS-Kantenrisse,13321.0,10.84,Supplier 1,35
+C300S,Kantenfehler - FS-Kantenrisse,12702.0,22.87,Supplier 1,37
+C100S,Längs- oder Querisse,8047.0,22.87,Supplier 1,39
+C300S,Längs- oder Querisse,7772.0,25.46,Supplier 1,40
+C200S,Längs- oder Querisse,9995.0,10.84,Supplier 1,41
+C100S,Kantenfehler - FS-Kantenrisse,9774.0,10.84,Supplier 1,42
+C100S,Sollmasse (Gewicht) unterschritten,11360.0,22.87,Supplier 1,43
+C100S,Längs- oder Querisse,8261.0,22.87,Supplier 1,44
+C100S,Kantenfehler - FS-Kantenrisse,9110.0,22.87,Supplier 1,45
+C300S,Längs- oder Querisse,13667.0,10.84,Supplier 1,46
+C100S,Längs- oder Querisse,6947.0,22.87,Supplier 1,47
+C300S,Sollmasse (Gewicht) unterschritten,14311.0,25.46,Supplier 1,49
+HDC,Material is Oiled,24469.0,52.0,Supplier 2,23048203
+S235JR,Material is Oiled,16984.0,41.0,Supplier 2,23040547
+S235JR,Material is Painted,9162.0,28.0,Supplier 2,23046057
+DX51D +AZ150,Material is Oiled,12119.0,66.0,Supplier 2,23041966
+HDC,Material is Painted,17260.0,26.0,Supplier 2,23043884
+DX51D +Z140,Material is not Oiled,23258.0,60.0,Supplier 2,23048868
+HDC,Material is Oiled,20994.0,93.0,Supplier 2,23046459
+HDC,Material is Oiled,22325.0,73.0,Supplier 2,23043788
+S235JR,Material is Oiled,10571.0,60.0,Supplier 2,23044935
+DX51D +Z140,Material is not Oiled,12999.0,95.0,Supplier 2,23049059
+HDC,Material is not Oiled,15862.0,59.0,Supplier 2,23047860
+DX51D +AZ150,Material is Painted,9217.0,72.0,Supplier 2,23047939
+S235JR,Material is not Oiled,15881.0,36.0,Supplier 2,23047348
+HDC,Material is Painted,23915.0,30.0,Supplier 2,23045961
+S235JR,Material is Painted,15741.0,71.0,Supplier 2,23042649
+S235JR,Material is not Oiled,15717.0,54.0,Supplier 2,23048176
+S235JR,Material is Painted,23967.0,10.0,Supplier 2,23043667
+HDC,Material is not Oiled,21346.0,58.0,Supplier 2,23046190
+S235JR,Material is not Oiled,10389.0,22.0,Supplier 2,23044291
+S235JR,Material is Oiled,18501.0,94.0,Supplier 2,23046841
+S235JR,Material is Oiled,14277.0,33.0,Supplier 2,23041008
+S235JR,Material is Oiled,24951.0,98.0,Supplier 2,23041560
+HDC,Material is Painted,15121.0,12.0,Supplier 2,23043638
+DX51D +AZ150,Material is Oiled,17933.0,72.0,Supplier 2,23041902
+DX51D +AZ150,Material is not Oiled,20304.0,82.0,Supplier 2,23049627
+HDC,Material is not Oiled,20027.0,96.0,Supplier 2,23044610
+DX51D +Z140,Material is not Oiled,23131.0,34.0,Supplier 2,23049106
+S235JR,Material is Painted,6113.0,29.0,Supplier 2,23048028
+DX51D +AZ150,Material is Oiled,9037.0,78.0,Supplier 2,23045099
+S235JR,Material is not Oiled,24331.0,31.0,Supplier 2,23046741
+DX51D +Z140,Material is Painted,11898.0,21.0,Supplier 2,23047239
+DX51D +AZ150,Material is Oiled,21609.0,33.0,Supplier 2,23049907
+S235JR,Material is Painted,19165.0,67.0,Supplier 2,23044447
+HDC,Material is not Oiled,18716.0,64.0,Supplier 2,23047489
+S235JR,Material is not Oiled,7025.0,33.0,Supplier 2,23040273
+DX51D +Z140,Material is Painted,14796.0,76.0,Supplier 2,23040905
+DX51D +Z140,Material is not Oiled,21149.0,62.0,Supplier 2,23043967
+S235JR,Material is Painted,16393.0,68.0,Supplier 2,23045724
+HDC,Material is not Oiled,21321.0,93.0,Supplier 2,23049672
+DX51D +AZ150,Material is Oiled,22395.0,62.0,Supplier 2,23049617
+DX51D +AZ150,Material is Painted,9355.0,64.0,Supplier 2,23043836
+S235JR,Material is Painted,10143.0,78.0,Supplier 2,23049333
+HDC,Material is Oiled,17001.0,62.0,Supplier 2,23041897
+S235JR,Material is not Oiled,6034.0,50.0,Supplier 2,23040756
+DX51D +AZ150,Material is Oiled,15230.0,95.0,Supplier 2,23041086
+DX51D +Z140,Material is not Oiled,9940.0,96.0,Supplier 2,23047543
+DX51D +AZ150,Material is Painted,23884.0,51.0,Supplier 2,23045292
+S235JR,Material is Oiled,5302.0,12.0,Supplier 2,23047408
+DX51D +Z140,Material is Oiled,16927.0,69.0,Supplier 2,23043348
+HDC,Material is not Oiled,11191.0,75.0,Supplier 2,23043386
